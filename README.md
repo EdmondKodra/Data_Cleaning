@@ -1,8 +1,8 @@
-🧹 Data Cleaning Project
+# 🧹 Data Cleaning Project
 
 Ky projekt demonstron pastrimin dhe normalizimin e të dhënave duke përdorur Python dhe Pandas në Jupyter Notebook. Qëllimi i projektit është të tregojë se si të përgatiten të dhënat e papërpunuara për analiza të mëtejshme ose për përdorim në aplikacione të ndryshme.
 
-Veprimet kryesore:
+## Veprimet kryesore:
 
 🗑️ Eliminimi i kolonave të panevojshme dhe duplicate
 
